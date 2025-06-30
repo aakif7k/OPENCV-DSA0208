@@ -1,3 +1,10 @@
+ #29. Morphological operations based on OpenCV using Erosion technique.
+ #30. Morphological operations based on OpenCV using Dilation technique.
+ #31. Morphological operations based on OpenCV using Opening technique.
+ #32. Morphological operations based on OpenCV using Closing technique.
+ #33. Morphological operations based on OpenCV using Morphological Gradient technique.
+ #34. Morphological operations based on OpenCV using Top hat technique.
+ #35. Morphological operations based on OpenCV using Black hat technique.
 import cv2
 import numpy as np
 
