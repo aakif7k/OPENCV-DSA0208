@@ -1,3 +1,6 @@
+#21. Sharpening with Laplacian Mask (Diagonal Extension)
+
+
 import cv2
 import numpy as np
 
