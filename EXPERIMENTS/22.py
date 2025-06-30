@@ -1,3 +1,6 @@
+#22. Laplacian Mask with Positive Center Coefficient
+
+
 import cv2
 import numpy as np
 
